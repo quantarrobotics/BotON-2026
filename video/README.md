@@ -4,6 +4,6 @@
 
 ## 🎥 Video de funcionamiento
 
-[![Robot MATRIX R4](https://www.youtube.com/shorts/EWFC1olFUI0)]
+[![Robot MATRIX R4](https://img.youtube.com/vi/EWFC1olFUI0/maxresdefault.jpg)](https://www.youtube.com/watch?v=EWFC1olFUI0)
 
 **▶️ Ver video completo en YouTube**
