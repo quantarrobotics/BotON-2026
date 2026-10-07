@@ -1,6 +1,6 @@
 ### 📷 Pista
 
-<img src="/Photo/robot-mvision1.jpeg" alt="Robot LEGO SPIKE con cámara M-Vision" width="400">
+<img src="/photos/Pista.jpg" alt="Pista de NETICA" width="400">
 
 ## 🎥 Video de funcionamiento
 
