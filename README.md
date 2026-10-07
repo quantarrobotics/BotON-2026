@@ -19,15 +19,15 @@ El robot utiliza una combinación de sensores ópticos, sensores láser y motore
 
 | Front | Back |
 |:---:|:---:|
-| <img src="./photos/front.jpg" width="300"> | <img src="./photos/back.jpg" width="300"> |
+| <img src="./photos/Front.jpg" width="300"> | <img src="./photos/Back.jpg" width="300"> |
 
 | Left Side | Right Side |
 |:---:|:---:|
-| <img src="./photos/left.jpg" width="300"> | <img src="./photos/right.jpg" width="300"> |
+| <img src="./photos/Left.jpg" width="300"> | <img src="./photos/Right.jpg" width="300"> |
 
 | Top | Bottom |
 |:---:|:---:|
-| <img src="./photos/top.jpg" width="300"> | <img src="./photos/botton.jpg" width="300"> |
+| <img src="./photos/Top.jpg" width="300"> | <img src="./photos/Botton.jpg" width="300"> |
 ## 📡 Sensores
 
 ### 🎨 Sensor de Color
