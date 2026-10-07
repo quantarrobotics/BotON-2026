@@ -15,6 +15,19 @@ El robot utiliza una combinación de sensores ópticos, sensores láser y motore
 - 🔋 Sistema de alimentación integrado
 - 🔧 Estructura mecánica para navegación autónoma
 
+## 🔍 Full View — All Angles
+
+| Front | Back |
+|:---:|:---:|
+| <img src="./photo/front.jpg" width="400"> | <img src="./photo/back.jpg" width="400"> |
+
+| Left Side | Right Side |
+|:---:|:---:|
+| <img src="./photo/left.jpg" width="400"> | <img src="./photo/right.jpg" width="400"> |
+
+| Top | Bottom |
+|:---:|:---:|
+| <img src="./photo/top.jpg" width="400"> | <img src="./photo/botton.jpg" width="400"> |
 ## 📡 Sensores
 
 ### 🎨 Sensor de Color
