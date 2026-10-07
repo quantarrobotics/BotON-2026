@@ -1,5 +1,5 @@
 # BotON-2026
-# 🤖 Robot MATRIX R4 – Plataforma de Robótica Educativa
+# 🤖 Robot MATRIX R4
 
 Robot móvil desarrollado sobre la plataforma **MATRIX R4**, diseñado para aplicaciones de robótica educativa, navegación autónoma, seguimiento de líneas y detección de obstáculos.
 
